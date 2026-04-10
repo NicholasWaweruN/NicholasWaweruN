@@ -1,20 +1,12 @@
 <div align="center">
 
-```
-███████╗ ██╗   ██╗███████╗██╗      ███████╗██╗      ██████╗ ██╗    ██╗
-██╔════╝ ██║   ██║██╔════╝██║      ██╔════╝██║     ██╔═══██╗██║    ██║
-█████╗   ██║   ██║█████╗  ██║      █████╗  ██║     ██║   ██║██║ █╗ ██║
-██╔══╝   ██║   ██║██╔══╝  ██║      ██╔══╝  ██║     ██║   ██║██║███╗██║
-██║      ╚██████╔╝███████╗███████╗ ██║     ███████╗╚██████╔╝╚███╔███╔╝
-╚═╝       ╚═════╝ ╚══════╝╚══════╝ ╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
-```
+# 🚀 Nicholas Waweru Njeri
+### Senior Backend Engineer · .NET · Distributed Systems · Fintech
 
-### **Nicholas Waweru** · Software Developer · Nairobi, Kenya 🇰🇪
+*Building high-performance, real-world systems — from forecourt operations to cloud-native platforms.*
 
-*Building full-stack systems that work in the real world — from forecourt to cloud.*
-
-[![GitHub followers](https://img.shields.io/github/followers/WaweruN?style=flat-square&color=22c55e&labelColor=0d1117&label=followers)](https://github.com/WaweruN)
-[![Profile views](https://komarev.com/ghpvc/?username=WaweruN&style=flat-square&color=22c55e&labelColor=0d1117)](https://github.com/WaweruN)
+[![GitHub](https://img.shields.io/badge/GitHub-NicholasWaweruN-181717?style=flat-square&logo=github)](https://github.com/NicholasWaweruN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicholas-waweru)
 
 </div>
 
@@ -22,82 +14,136 @@
 
 ## 👋 About Me
 
-I'm a software developer based in **Nairobi, Kenya**, building end-to-end solutions across the full stack — from .NET microservices to React dashboards to Android apps. My work lives at the intersection of **enterprise software** and **African fintech**, with a strong focus on practical systems that scale.
+I’m a **Senior Backend Engineer with 10+ years of experience** building scalable, high-performance systems across fintech, energy, and enterprise domains.
 
-I'm currently deep in the **FuelFlow** ecosystem — a fuel station management platform spanning a React web frontend, a Kotlin Android app, and a C# microservices backend with M-Pesa (Daraja API) integration.
+I specialize in **.NET microservices architectures**, real-time systems, and transaction-heavy platforms — with a strong focus on **performance, reliability, and real-world usability**.
+
+Currently, I’m leading development of the **FuelFlow ecosystem** — a full-stack fuel station management platform integrating **M-Pesa payments, real-time pump monitoring, and distributed services**.
+
+---
+
+## 💡 What I Bring
+
+- ⚡ Designed systems handling **100K+ daily transactions**
+- 📡 Built real-time platforms supporting **1,000+ concurrent users**
+- 📉 Reduced operational errors and revenue leakage by **up to 90%**
+- 🧠 Strong expertise in **distributed systems, microservices, and clean architecture**
+- 💳 Deep domain knowledge in **fintech & payment integrations (M-Pesa Daraja API)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### **Backend**
 ```
-C# · .NET · ASP.NET Core · gRPC · REST APIs · Microservices · Entity Framework
-```
-
-**Frontend**
-```
-React · JavaScript · TypeScript · HTML/CSS · Responsive Design
+C# · .NET Core · ASP.NET Web API · Entity Framework Core · gRPC
+Microservices · REST APIs · Background Services · Clean Architecture
 ```
 
-**Mobile**
+### **Frontend**
 ```
-Kotlin · Android SDK · MVVM · Jetpack · M-Pesa STK Push
-```
-
-**Tools & Practices**
-```
-Git · SQL Server · PostgreSQL · Dependency Injection · SOLID Principles · Design Patterns
+React · TypeScript · JavaScript · HTML/CSS · Responsive UI
 ```
 
-**Fintech / Integrations**
+### **Cloud & DevOps**
 ```
-Safaricom Daraja API · M-Pesa STK Push · OAuth2 · OTP / Email Flows (MailKit)
+Azure App Services · Azure Functions · Azure SQL
+Docker · Kubernetes · CI/CD · Git
+```
+
+### **Data & Storage**
+```
+SQL Server · PostgreSQL · Redis · MongoDB
+```
+
+### **Integrations**
+```
+M-Pesa (Daraja API) · OAuth2 · Payment Systems · OTP Flows
+GraphQL (API consumption & basic implementation)
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⛽ [FuelFlow_Server](https://github.com/WaweruN/FuelFlow_Server)
-> **C# · .NET · Microservices · gRPC**
+### ⛽ FuelFlow Server
+**.NET · Microservices · gRPC · Fintech**
 
-The backbone of the FuelFlow ecosystem. A .NET microservices backend handling pump monitoring, sales management, car wash income tracking, and M-Pesa payment processing via the Daraja API. Built with proper DI lifetimes, background services, and gRPC inter-service communication.
+A cloud-ready microservices backend powering fuel station operations:
+- Handles **pump monitoring, sales processing, and reconciliation**
+- Processes **high-volume M-Pesa transactions** with idempotency controls
+- Uses **gRPC for inter-service communication**
+- Background workers for **async processing and reporting**
 
----
+👉 Designed for **high availability, scalability, and real-time visibility**
 
-### 🌐 [FuelFlow_Web](https://github.com/WaweruN/FuelFlow_Web)
-> **React · JavaScript · Design System**
-
-A professional React dashboard for fuel station operators. Features real-time pump monitoring, sales analytics, and a cohesive design token system with polished UI components. Built with a focus on UX clarity and performance.
-
----
-
-### 🧩 [CRM_CORE](https://github.com/WaweruN/CRM_CORE)
-> **C# · .NET**
-
-A CRM core module built in C#, focused on clean architecture and extensible business logic. Demonstrates SOLID principles applied to enterprise-grade customer relationship management.
+🔗 https://github.com/NicholasWaweruN/FuelFlow_Server
 
 ---
 
-### ⛽ [TrioFuels](https://github.com/WaweruN/TrioFuels)
-> **C# · Forecourt Sales Management**
+### 🌐 FuelFlow Web
+**React · TypeScript · Dashboard Systems**
 
-A forecourt sales management system — tracking fuel dispensing, shift reconciliation, and revenue across multiple pumps. Purpose-built for the operational realities of Kenyan fuel stations.
+A professional operations dashboard:
+- Real-time sales tracking and pump activity
+- KPI-driven analytics (daily, weekly, monthly)
+- Optimized UI/UX with scalable design system
+
+👉 Built for **clarity, performance, and operational efficiency**
+
+🔗 https://github.com/NicholasWaweruN/FuelFlow_Web
 
 ---
 
-### 📘 [DSA_Solutions](https://github.com/WaweruN/DSA_Solutions)
-> **C#**
+### 📊 TrioFuels
+**C# · Forecourt Systems**
 
-Data Structures & Algorithms solutions written in C#. A living reference for problem-solving patterns, interview prep, and algorithmic thinking — from sorting and searching to dynamic programming.
+A fuel station management system:
+- Tracks **dispensing, shifts, and revenue flows**
+- Handles **multi-pump station operations**
+- Designed around **real-world fuel station workflows**
+
+👉 Focused on **accuracy, reconciliation, and operational control**
+
+🔗 https://github.com/NicholasWaweruN/TrioFuels
 
 ---
 
-### 🏢 [Corporate_Client_Page](https://github.com/WaweruN/Corporate_Client_Page)
-> **TypeScript**
+### 🧩 CRM Core
+**C# · Clean Architecture**
 
-A corporate client-facing page built in TypeScript. Clean, typed, and structured for maintainability.
+A modular CRM engine:
+- Extensible business logic layers
+- Strong adherence to **SOLID principles**
+- Designed for **scalability and maintainability**
+
+👉 Demonstrates **enterprise-grade architecture patterns**
+
+🔗 https://github.com/NicholasWaweruN/CRM_CORE
+
+---
+
+### 📘 DSA Solutions
+**C# · Algorithms**
+
+A curated collection of:
+- Data structures & algorithm patterns
+- Interview-ready solutions
+- Performance-focused implementations
+
+👉 Focused on **problem-solving and optimization**
+
+🔗 https://github.com/NicholasWaweruN/DSA_Solutions
+
+---
+
+## 🌍 Currently Working On
+
+- 🔧 Scaling **FuelFlow** into a fully distributed platform
+- ⚙️ Enhancing **M-Pesa integrations (Daraja API, STK Push, callbacks)**
+- 📡 Implementing **event-driven architectures & async processing**
+- ☁️ Expanding **cloud-native deployments on Azure**
+- 📱 Building Android features using **Kotlin (MVVM, Jetpack)**
 
 ---
 
@@ -105,51 +151,27 @@ A corporate client-facing page built in TypeScript. Clean, typed, and structured
 
 <div align="center">
 
-![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaweruN&show_icons=true&theme=github_dark&hide_border=true&icon_color=22c55e&title_color=22c55e&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasWaweruN&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaweruN&layout=compact&theme=github_dark&hide_border=true&title_color=22c55e&text_color=c9d1d9)
-
-</div>
-
----
-
-## 🌍 Currently Working On
-
-- 🔧 Scaling the **FuelFlow** platform — M-Pesa integrations, gRPC services, Android mobile app
-- 📐 Applying **clean architecture** patterns across a growing microservices landscape
-- 📱 Android development with **Kotlin** — MVVM, Fragment navigation, STK Push flows
-- 📚 Deepening expertise in **.NET internals** — async/await, memory, GC, and performance
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-WaweruN-181717?style=for-the-badge&logo=github)](https://github.com/WaweruN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nicholas-waweru)
-
-*Open to collaborations, interesting problems, and opportunities that make a real-world difference.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasWaweruN&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
+## 📫 Let’s Connect
+
+- 💼 Open to **remote opportunities (US/global)**
+- 🤝 Available for **collaborations & system design projects**
+
+📧 nicholaswawerunjeri@gmail.com  
+🔗 https://linkedin.com/in/nicholas-waweru  
+🐙 https://github.com/NicholasWaweruN
+
+---
+
 <div align="center">
-<sub>Built with purpose · Deployed in Nairobi · Powered by ☕ and curiosity</sub>
-</div>## Hi there 👋
 
-<!--
-**NicholasWaweruN/NicholasWaweruN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Built with precision · Designed for scale · Focused on impact**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
