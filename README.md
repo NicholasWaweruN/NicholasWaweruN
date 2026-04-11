@@ -6,7 +6,7 @@
 *Building high-performance, real-world systems — from forecourt operations to cloud-native platforms.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-NicholasWaweruN-181717?style=flat-square&logo=github)](https://github.com/NicholasWaweruN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicholas-waweru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicholas-waweru-16259146/?skipRedirect=true)
 
 </div>
 
