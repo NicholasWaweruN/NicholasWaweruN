@@ -165,7 +165,7 @@ A curated collection of:
 - 🤝 Available for **collaborations & system design projects**
 
 📧 nicholaswawerunjeri@gmail.com  
-🔗 https://linkedin.com/in/nicholas-waweru  
+🔗 https://www.linkedin.com/in/nicholas-waweru-16259146/?skipRedirect=true  
 🐙 https://github.com/NicholasWaweruN
 
 ---
