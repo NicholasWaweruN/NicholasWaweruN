@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════╗
@@ -19,8 +19,10 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicholas-waweru-16259146/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-NicholasWaweruN-181717?style=flat-square&logo=github)](https://github.com/NicholasWaweruN)
-[![Email](https://img.shields.io/badge/Email-nicholaswawerunjeri%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nicholaswawerunjeri@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-nicholaswaweru.n%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nicholaswawerunjeri@gmail.com)
 
 </div>
 
